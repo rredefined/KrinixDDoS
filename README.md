@@ -6,6 +6,7 @@ Ddos attack with python using simple commands.
 
 ## 📥 Install files and setup
 ```bash
+apt update && apt install git -y
 git clone https://github.com/rredefined/KrinixDDoS.git
 cd KrinixDDoS
 apt install python3-pip -y
