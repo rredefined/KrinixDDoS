@@ -8,7 +8,7 @@ Ddos attack with python using simple commands.
 ```bash
 git clone https://github.com/rredefined/KrinixDDoS.git
 cd KrinixDDoS
-apt install python3-pip
+apt install python3-pip -y
 ```
 
 ---
