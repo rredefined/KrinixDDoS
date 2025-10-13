@@ -18,6 +18,7 @@ Click on the copy button to copy each command! ⬇️
 
 ```
 pip install -r requirements.txt
+pip install httpx
 ```
 
 ```
